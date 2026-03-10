@@ -1,0 +1,12 @@
+Username: Diego
+Senha: bce4b851453
+
+https://github.com/DiegoSaggiorato/curso_django
+
+echo "# curso_django" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DiegoSaggiorato/curso_django
+git push -u origin main
